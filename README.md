@@ -16,7 +16,7 @@ Ce projet est une application Android native développée pour présenter un cat
     * **Liste des ingrédients** :
 <img width="353" height="600" alt="image" src="https://github.com/user-attachments/assets/35918207-aba5-4591-9388-eef3db0f5136" />
 
-    * **Description et Histoire** :
+* **Description et Histoire** :
    
 <img width="337" height="133" alt="image" src="https://github.com/user-attachments/assets/ba56ff42-646c-477d-a648-5c717a6c6ce1" />
 
@@ -52,5 +52,6 @@ L'organisation des fichiers respecte les conventions Android :
 
 ---
 *Projet réalisé avec soin dans le cadre de l'apprentissage du développement mobile Android.*
+
 
 

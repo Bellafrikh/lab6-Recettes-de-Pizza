@@ -12,13 +12,15 @@ Ce projet est une application Android native développée pour présenter un cat
 <img width="362" height="788" alt="image" src="https://github.com/user-attachments/assets/87ee4c97-aa67-48b6-b2cf-5aed3e09b0de" />
 
 *   **Détails Complets** : Chaque pizza possède sa propre fiche détaillée incluant :
-    *   La liste des ingrédients.
+
+    * **Liste des ingrédients** :
 <img width="353" height="600" alt="image" src="https://github.com/user-attachments/assets/35918207-aba5-4591-9388-eef3db0f5136" />
-  
-    *   Une description de l'histoire ou du goût de la pizza.
+
+    * **Description et Histoire** :
+   
 <img width="337" height="133" alt="image" src="https://github.com/user-attachments/assets/ba56ff42-646c-477d-a648-5c717a6c6ce1" />
 
-    *   Les étapes de préparation pas à pas.
+   * **Étapes de préparation** :
 
 <img width="337" height="133" alt="image" src="https://github.com/user-attachments/assets/ba56ff42-646c-477d-a648-5c717a6c6ce1" />
 
@@ -50,4 +52,5 @@ L'organisation des fichiers respecte les conventions Android :
 
 ---
 *Projet réalisé avec soin dans le cadre de l'apprentissage du développement mobile Android.*
+
 
